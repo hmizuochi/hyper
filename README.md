@@ -12,12 +12,12 @@ Data
 =======================
 ### soilline_xxx_to_yyy.csv
 this was used to translate surface reflectance of the Hyperion xxx band to that of yyy band, during 2001 to 2008 over the RRVP.
-	- column 1: slope of the soil line
-	- column 2: offset of the soil line
-	- column 3: coefficient of determination
+- column 1: slope of the soil line
+- column 2: offset of the soil line
+- column 3: coefficient of determination
 
 ### soilline_Bx.csv
 this was used to translate surface reflectance of MODIS band x to the corresponding Hyperion band.
-	- column 1: slope of the soil line
-	- column 2: offset of the soil line
-	- column 3: coefficient of determination
+- column 1: slope of the soil line
+- column 2: offset of the soil line
+- column 3: coefficient of determination
